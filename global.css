@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inria-sans: "Inria Sans";
+  --font-katibeh: Katibeh;
+  --font-mogra: Mogra;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-3xl-6: 22.6px;
+  --font-size-6xl: 25px;
+  --font-size-mid-6: 17.6px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-whitesmoke: #f0f0f0;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+}
